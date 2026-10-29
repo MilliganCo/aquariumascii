@@ -1,5 +1,7 @@
 # AquariumASCII
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## О проекте
 
 `AquariumASCII` — интерактивный ASCII-аквариум на `pygame` с симуляцией рыб, еды, пузырьков, водорослей и системой ухода. Проект сочетает симуляцию поведения, текстовый визуальный стиль и сохранение состояния аквариума между запусками.
@@ -28,3 +30,8 @@ python app.py
 ## Статус
 
 Готовый симуляционный прототип. Проект уже самодостаточен как маленькое интерактивное приложение с живым состоянием мира.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
